@@ -1,18 +1,18 @@
-# ð· Victorian Liquor Licences â Data Analysis Case Study
+# 🍷 Victorian Liquor Licences — Data Analysis Case Study
 
 A comprehensive data analysis of **23,341 active liquor licences** across Victoria, Australia, as of 31 October 2025.
 
 ---
 
-## ð Project Overview
+## 📋 Project Overview
 
 This project analyses the full Victorian liquor licence dataset published by the **Victorian Commission for Gambling and Liquor Regulation (VCGLR)** to uncover geographic, operational and category-level insights across the state.
 
-**Tools used:** Python (pandas, matplotlib, openpyxl) Â· Power BI Â· Microsoft PowerPoint Â· Excel
+**Tools used:** Python (pandas, matplotlib, openpyxl) · Power BI · Microsoft PowerPoint · Excel
 
 ---
 
-## ð Files in this Repository
+## 📁 Files in this Repository
 
 | File | Description |
 |------|-------------|
@@ -21,18 +21,18 @@ This project analyses the full Victorian liquor licence dataset published by the
 
 ---
 
-## ð Key Findings
+## 🔍 Key Findings
 
-- **63%** of all licences are in Metro Victoria â Melbourne City Council alone holds 2,155
-- **Restaurant & CafÃ©** is the #1 licence type at 28% of total (6,544 licences)
+- **63%** of all licences are in Metro Victoria — Melbourne City Council alone holds 2,155
+- **Restaurant & Café** is the #1 licence type at 28% of total (6,544 licences)
 - **85%** of late-night licences (trading 3am+) are in Metro areas, concentrated in Metro North
-- Only **2.1%** of venues (480) hold gaming licences â tightly concentrated in pubs and clubs
+- Only **2.1%** of venues (480) hold gaming licences — tightly concentrated in pubs and clubs
 - **Hume & Loddon Mallee** regions lead producer licences, covering King Valley, Heathcote and Rutherglen wine regions
 - **Casey, Wyndham & Moreland** rank highest for packaged liquor licences, reflecting Melbourne's outer suburban growth corridors
 
 ---
 
-## ðï¸ Dataset
+## 🗂️ Dataset
 
 - **Source:** [liquor.vic.gov.au](https://www.liquor.vic.gov.au)
 - **Records:** 23,341 active licences
@@ -46,12 +46,12 @@ This project analyses the full Victorian liquor licence dataset published by the
 
 ---
 
-## ð Dashboard Preview
+## 📊 Dashboard Preview
 
 The PDF dashboard covers:
 
 1. Cover slide
-2. Executive Summary â 8 KPI cards
+2. Executive Summary — 8 KPI cards
 3. Licence Categories breakdown
 4. Metro vs Regional analysis
 5. Geographic hotspots (councils & suburbs)
@@ -64,8 +64,8 @@ The PDF dashboard covers:
 
 ---
 
-## ð¤ Author
+## 👤 Author
 
 **Chhayseng Lov**
-Data Analyst Â· Melbourne, VIC
+Data Analyst · Melbourne, VIC
 [GitHub](https://github.com/chhay0818)
